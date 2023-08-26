@@ -13,8 +13,10 @@
     <img align="center" alt="Ander-Pycharm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />   
     <img align="center" alt="Ander-Anaconda" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
   <img align="right" alt="Img-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="300">
+
+   ![Snake animation](https://github.com/AnderLuan7/AnderLuan7-output/blob/main/github-contribution-grid-snake.svg)
 </div>
-    
+  
 ##
 
 <div> 
