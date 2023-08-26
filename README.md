@@ -14,7 +14,6 @@
     <img align="center" alt="Ander-Anaconda" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
   <img align="right" alt="Img-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="300">
 
-   ![Snake animation](https://github.com/AnderLuan7/AnderLuan7-output/blob/main/github-contribution-grid-snake.svg)
 </div>
   
 ##
@@ -24,4 +23,5 @@
   <a href="https://www.linkedin.com/in/anderson-luan-b554a7253/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
+![snake gif](https://github.com/AnderLuan7/AnderLuan7/blob/output/github-contribution-grid-snake.svg)
 
